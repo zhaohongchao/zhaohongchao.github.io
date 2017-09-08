@@ -1,0 +1,35 @@
+更换字体  http://blog.csdn.net/gold_brick/article/details/52865369
+
+OkHttpUtils   http://blog.csdn.net/lmj623565791/article/details/49734867/
+
+五秒跳转  http://blog.csdn.net/fuzhongbin/article/details/49927403
+
+图片压缩  http://blog.csdn.net/jdsjlzx/article/details/44228935
+
+Android酷炫实用的开源框架（UI框架）
+http://blog.csdn.net/fancylovejava/article/details/45787729/
+
+单例模式  http://blog.csdn.net/jason0539/article/details/23297037/
+
+Butterknife   http://www.cnblogs.com/zhaoyanjun/p/6016341.html
+
+Glide框架  http://blog.csdn.net/fancylovejava/article/details/44747759
+
+slider 轮播图  http://blog.csdn.net/yiranaini_/article/details/52329705
+
+解决slider重复加载 http://blog.csdn.net/u011164565/article/details/51397096
+
+
+Retrofit网络请求   https://github.com/square/retrofit
+中文详解 http://blog.csdn.net/bitian123/article/details/51899716
+
+Rxjava的使用  http://www.jianshu.com/p/19cac3c5b106
+
+EventBus简单用法  http://www.jianshu.com/p/a040955194fc
+https://github.com/greenrobot/EventBus
+
+
+
+
+
+
